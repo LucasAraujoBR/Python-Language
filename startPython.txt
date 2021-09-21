@@ -1,0 +1,11 @@
+python3 -m venv venv
+
+. venv/bin/activate
+
+create .vcscode
+settings.json = {
+    "python.pythonPath": "venv/bin/python",
+    "code-runner.executorMap": {
+        "python": "venv/bin/python",
+    }
+}
