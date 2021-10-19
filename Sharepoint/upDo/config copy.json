@@ -1,0 +1,11 @@
+
+{
+    "share_point":
+    {
+        "user": "email",
+        "password": "senha",
+        "url": "url",
+        "site": "url site",
+        "doc_library": "caminho"
+    }
+}
