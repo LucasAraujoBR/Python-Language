@@ -1,0 +1,9 @@
+*Excel na nuvem*
+
+Inserção de dados -> OK!
+
+Busca de dados -> OK!
+
+Contagem de linhas -> em andamento
+
+Coloração da célula -> em andamento
